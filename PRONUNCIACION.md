@@ -79,3 +79,7 @@ Estas unidades no se cuentan como fonemas adicionales hasta demostrar que contra
 ## 7. Nota de validación
 
 Esta es una propuesta de pronunciación, no una descripción fonética validada por hablantes. Antes de publicar una tipografía definitiva, debe cerrarse la tabla IPA, resolver el recuento y grabar muestras de audio para cada unidad.
+
+## 8. Alias de teclado
+
+Para facilitar la escritura en teclados convencionales, el conversor acepta E y É como alias de Ë, I como alias de Ï, O como alias de Ø y U como alias de Û. En la documentación normativa se prefieren las formas canónicas con diacríticos.
