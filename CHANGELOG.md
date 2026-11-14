@@ -22,7 +22,7 @@
 - Se incorpora un flujo de despliegue automático de GitHub Pages; requiere activar Pages en la configuración del repositorio.
 
 - Se revisa la tipografía geométrica y se añade la guía de instalación en Word.
-- Se incorporan alias de teclado para las vocales con diacríticos.
+- Nota histórica: una revisión anterior incorporó alias de teclado para vocales con diacríticos; la revisión 1.2 los elimina por generar ambigüedades.
 
 - Se incorpora el manual inicial de aprendizaje, metadatos de citación, robots.txt y sitemap.xml para facilitar la publicación e indexación.
 
