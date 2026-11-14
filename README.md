@@ -17,6 +17,7 @@ NEXØR es un proyecto de lengua artificial (conlang) con un sistema fonológico,
 - [Fonología y pronunciación](PRONUNCIACION.md)
 - [Escritura y transliteración](ESCRITURA.md)
 - [Lámina del alfabeto (SVG)](alfabeto-nexor.svg)
+- [Escritor web y descarga de fuente TTF](escritor.html)
 - [Ejemplos de uso](EJEMPLOS.md)
 - [Especificación de traducción](TRADUCCION.md)
 - [Cómo contribuir](CONTRIBUTING.md)
