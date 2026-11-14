@@ -88,7 +88,7 @@ Orden: cosa poseída + NA + poseedor.
 
 El adjetivo aparece después del sustantivo:
 
-- DOM VÂL — casa buena.
+- DOM VAL — casa buena.
 - VESH SHËL — mundo grande.
 
 No hay concordancia de género ni de número.
@@ -125,7 +125,7 @@ Se propone el patrón (C)(C)V(C), donde C es una consonante o grupo admitido y V
 | Ø-A-KAI ARA VESH | Yo no veo el mundo. |
 | U-NAR VOR RU DOM | Nosotros iremos a casa. |
 | A-KAI THÉN ARA QE | ¿Tú me ves? |
-| A-VËR DOM VÂL | La casa es buena. |
+| A-VËR DOM VAL | La casa es buena. |
 | A-SHEN SAI MI ARA | Él/ella habla conmigo. |
 
 ## 14. Aspectos todavía no regulados
