@@ -19,3 +19,5 @@
 - Se incorpora el manual inicial de aprendizaje, metadatos de citación, robots.txt y sitemap.xml para facilitar la publicación e indexación.
 
 - Se añaden hoja de ruta y materiales de difusión en español e inglés.
+
+- Se corrige el conversor público para usar WOFF2 embebida. La fuente TTF para Word queda disponible como kit experimental, pendiente de publicación binaria en el repositorio.
