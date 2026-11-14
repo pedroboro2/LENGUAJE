@@ -114,7 +114,7 @@
 | DËK | malo |
 | SHËL | grande |
 | PËN | pequeño |
-| RAV | nuevo |
+| NËV | nuevo |
 | KÛL | antiguo |
 | ZHËM | libre |
 | HAR | claro |
@@ -154,7 +154,7 @@
 
 ## Reglas de uso
 
-1. Las entradas no cambian de significado sin una revisión documentada.
+1. Las entradas no cambian de significado sin una revisión documentada. La forma NËV se reserva para «nuevo»; RAV significa únicamente «dar».
 2. Las categorías gramaticales deben anotarse al añadir vocabulario.
 3. Los verbos se citan en su forma no conjugada.
 4. Los sustantivos se citan en singular sin marcador de número.
