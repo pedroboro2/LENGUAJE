@@ -14,6 +14,10 @@ NEXØR 1.1 dispone de:
 
 ## Fase 1 — Coherencia lingüística
 
+- [x] Resolver la colisión O/Ø y E/Ë mediante ortografía canónica sin alias automáticos.
+- [x] Resolver la colisión léxica: RAV = dar; NËV = nuevo.
+- [ ] Validar fonológicamente el inventario y los grupos consonánticos.
+
 - [ ] Revisar la tabla IPA con asesoramiento fonético.
 - [ ] Resolver la clasificación de las 12 secuencias.
 - [ ] Definir la estructura silábica y las restricciones de combinación.
