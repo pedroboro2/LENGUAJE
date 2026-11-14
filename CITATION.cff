@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Si utilizas o adaptas NEXØR, cita este proyecto y enlaza el repositorio."
+title: "NEXØR — Proyecto de lengua artificial"
+type: software
+authors:
+  - family-names: "Proyecto NEXØR"
+    given-names: "Pedro"
+    affiliation: "Creador del proyecto"
+repository-code: "https://github.com/pedroboro2/LENGUAJE"
+url: "https://github.com/pedroboro2/LENGUAJE"
+license: "CC-BY-4.0"
+version: "1.1"
+date-released: 2026-11-14
+abstract: "Proyecto abierto de lengua artificial en desarrollo, con gramática, léxico, fonología y sistema de escritura experimental."
