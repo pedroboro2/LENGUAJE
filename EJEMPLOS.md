@@ -20,7 +20,7 @@ Las frases siguientes ilustran las reglas de la gramática 1.0. Son ejemplos did
 | 14 | A-KAI ARA IR EN | Yo veo a las personas. |
 | 15 | A-MEL THÉN ESH | Tú piensas en una idea. |
 | 16 | U-ZHEN VOR THAR SHÛR | Nosotros enseñaremos una lengua a vosotros. |
-| 17 | A-RAV SAI PÛL MI THÉN | Él/ella da un libro a ti, contigo (construcción a revisar). |
+| 17 | A-RAV SAI PÛL | Él/ella da un libro. |
 | 18 | Ø-E-KETH ARA SHAR | Yo no escuché el viento. |
 | 19 | A-PEL THÉN ZAR | Tú encuentras la puerta. |
 | 20 | U-KSAR VAI VESH | Ellos cambiarán el mundo. |
@@ -28,7 +28,7 @@ Las frases siguientes ilustran las reglas de la gramática 1.0. Son ejemplos did
 ## Observaciones
 
 - En los ejemplos 1–16 y 18–20 se sigue el orden verbal básico propuesto.
-- El ejemplo 17 se incluye expresamente como caso pendiente: la gramática aún no regula destinatarios y beneficiarios de forma suficientemente clara. No debe memorizarse como modelo.
+- El ejemplo 17 se limita a verbo, sujeto y objeto directo; las construcciones con destinatario o beneficiario siguen pendientes.
 - El uso de «una/un» en las traducciones españolas es natural en castellano, pero NEXØR no tiene artículo.
 - En NEXØR, el marcador de tiempo se antepone al verbo; no existe concordancia verbal por persona.
 - La preposición TA marca ubicación; RU marca dirección; MI marca compañía.
