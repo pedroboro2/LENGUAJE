@@ -15,3 +15,5 @@
 
 - Se revisa la tipografía geométrica y se añade la guía de instalación en Word.
 - Se incorporan alias de teclado para las vocales con diacríticos.
+
+- Se incorpora el manual inicial de aprendizaje, metadatos de citación, robots.txt y sitemap.xml para facilitar la publicación e indexación.
