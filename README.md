@@ -21,6 +21,7 @@ NEXØR es un proyecto de lengua artificial (conlang) con un sistema fonológico,
 - [Instrucciones de instalación de la fuente](FUENTE.md)
 - [Ejemplos de uso](EJEMPLOS.md)
 - [Especificación de traducción](TRADUCCION.md)
+- [Manual inicial de aprendizaje](MANUAL-INICIAL.md)
 - [Cómo contribuir](CONTRIBUTING.md)
 - [Registro de cambios](CHANGELOG.md)
 
