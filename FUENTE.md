@@ -30,5 +30,6 @@ La persona destinataria debe instalar la misma fuente para ver los grafemas en W
 - Versión web WOFF2 embebida en escritor.html.
 - 36 grafemas asignados a U+E000–U+E023.
 - Los caracteres privados no tienen significado universal fuera de esta fuente.
+- La entrada canónica exige Ë, Ï, Ø y Û; el conversor no aplica alias ASCII E, I, O o U.
 - Si el destinatario no instala la fuente, puede ver cuadros vacíos o símbolos de sustitución.
 - El diseño es experimental y puede cambiar en futuras versiones.
