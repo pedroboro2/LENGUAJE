@@ -1,0 +1,47 @@
+# NEXØR — Escritura y transliteración 1.0
+
+## 1. Dos capas distintas
+
+NEXØR utilizará:
+1. **Transcripción latina de trabajo:** formas como ARA, ZHUR o VESH, útiles para documentar y aprender la lengua mientras se diseña la escritura.
+2. **Escritura NEXØR:** 36 grafemas originales, uno por cada unidad de la tabla gráfica provisional.
+
+La transcripción latina no es la escritura propia. No debe presentarse como si los caracteres latinos fueran el alfabeto final.
+
+## 2. Mapa de 36 signos
+
+El archivo alfabeto-nexor.svg presenta una primera propuesta visual de 36 signos geométricos. Cada signo se identifica con una etiqueta latina de referencia. El dibujo es un prototipo gráfico; no es todavía una fuente de ordenador.
+
+### Vocales (6)
+A, Ë, Ï, Ø, Û, Æ.
+
+### Consonantes (18)
+P, T, K, D, G, M, N, F, V, S, Z, SH, ZH, TH, H, L, R, RR.
+
+### Secuencias consonánticas (12)
+KH, QH, TS, DZ, NY, LY, VR, KR, ZR, SHK, THR, XH.
+
+## 3. Dirección y composición
+
+- Escritura de izquierda a derecha.
+- Separación entre palabras mediante espacio.
+- Sin distinción de mayúsculas y minúsculas.
+- Puntuación provisional compatible con la puntuación internacional hasta crear signos propios.
+- No se conectan obligatoriamente los grafemas; las ligaduras serán una variante caligráfica opcional.
+
+## 4. Tipografía
+
+Para crear una fuente instalable en Word se necesita convertir los diseños vectoriales en contornos de glifos y generar un archivo OTF/TTF con tabla cmap, métricas, nombres y licencia. Un SVG o una imagen de alfabeto no es por sí solo una fuente instalable.
+
+El desarrollo de la fuente requiere:
+- Dibujos vectoriales revisados.
+- Mapa de caracteres estable.
+- Tabla de codificación, por ejemplo en el área de uso privado Unicode.
+- Pruebas en Windows, Word, LibreOffice y exportación PDF.
+- Inclusión de licencia y metadatos.
+
+No se deben asignar caracteres Unicode de uso privado sin acompañarlos de la fuente, porque en otros equipos podrían mostrarse como cuadros vacíos.
+
+## 5. Estado
+
+La primera lámina visual está publicada como prototipo. La fuente OTF/TTF todavía no está creada ni debe anunciarse como disponible.
