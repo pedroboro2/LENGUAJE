@@ -12,3 +12,6 @@
 - Se añade la fuente experimental NEXOR Glyph 01 y el conversor web ESCRITOR.html.
 - Se rediseña la lámina SVG para reflejar los 36 grafemas del prototipo tipográfico.
 - Se incorpora un flujo de despliegue automático de GitHub Pages; requiere activar Pages en la configuración del repositorio.
+
+- Se revisa la tipografía geométrica y se añade la guía de instalación en Word.
+- Se incorporan alias de teclado para las vocales con diacríticos.
