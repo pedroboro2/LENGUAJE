@@ -80,6 +80,6 @@ Estas unidades no se cuentan como fonemas adicionales hasta demostrar que contra
 
 Esta es una propuesta de pronunciación, no una descripción fonética validada por hablantes. Antes de publicar una tipografía definitiva, debe cerrarse la tabla IPA, resolver el recuento y grabar muestras de audio para cada unidad.
 
-## 8. Alias de teclado
+## 8. Convención ortográfica de entrada
 
-Para facilitar la escritura en teclados convencionales, el conversor acepta E y É como alias de Ë, I como alias de Ï, O como alias de Ø y U como alias de Û. En la documentación normativa se prefieren las formas canónicas con diacríticos.
+Se utilizan exclusivamente las grafías canónicas Ë, Ï, Ø y Û. No se establecen alias ASCII para estas vocales. La decisión evita confundir O (conjunción «o») con Ø y E- (marcador de pasado) con Ë. En teclados que no dispongan de estas teclas, se puede copiar y pegar la vocal canónica desde la tabla de caracteres; no se debe sustituir automáticamente una letra en todo el texto.
