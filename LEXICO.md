@@ -14,7 +14,7 @@
 | VAI | ellos/ellas/elles | pronombre |
 | EN | persona | nombre |
 | NER | niño/a | nombre |
-| MÂR | adulto/a | nombre |
+| MAR | adulto/a | nombre |
 | SÛN | amigo/a | nombre |
 | KEL | familia | nombre |
 | RETH | grupo | nombre |
@@ -36,7 +36,7 @@
 | THÛR | tomar |
 | MEL | pensar |
 | ZEK | escribir |
-| QAR | leer |
+| QHAR | leer |
 | LÛN | dormir |
 | FEN | comer |
 | NÛR | beber |
@@ -49,9 +49,9 @@
 | THES | buscar |
 | GÛR | vivir |
 | SËK | morir |
-| XAR | cambiar |
+| KSAR | cambiar |
 | VEK | poder, ser capaz |
-| QEN | necesitar |
+| QHEN | necesitar |
 | HËR | recordar |
 | ZÛL | olvidar |
 | RËN | sentir |
@@ -73,9 +73,9 @@
 | LÛR | luz |
 | DÛR | oscuridad |
 | SHAR | viento |
-| QÛM | montaña |
+| QHÛM | montaña |
 | NËL | río |
-| FÂR | lluvia |
+| FAR | lluvia |
 
 ## Personas, objetos y lugares
 
@@ -89,10 +89,10 @@
 | ZAR | puerta |
 | PÛL | libro |
 | ZEKH | papel |
-| MÂK | herramienta |
+| MAK | herramienta |
 | THOR | trabajo, tarea |
 | NÛM | nombre |
-| QEL | palabra |
+| QHEL | palabra |
 | SHÛR | lengua, idioma |
 | RAK | mano |
 | DËN | ojo |
@@ -103,21 +103,21 @@
 | Forma | Significado |
 |---|---|
 | VËRA | vida |
-| ZHÂR | amor |
+| ZHAR | amor |
 | KËL | paz |
 | THÛN | fuerza |
 | MËNA | memoria |
-| SÂR | verdad |
-| QÛR | pregunta |
+| SAR | verdad |
+| QHÛR | pregunta |
 | NËRA | respuesta |
-| VÂL | bueno |
+| VAL | bueno |
 | DËK | malo |
 | SHËL | grande |
 | PËN | pequeño |
-| RÂV | nuevo |
+| RAV | nuevo |
 | KÛL | antiguo |
 | ZHËM | libre |
-| HÂR | claro |
+| HAR | claro |
 | NÛSH | difícil |
 | LËM | fácil |
 
@@ -144,7 +144,7 @@
 | EK | 1 |
 | DU | 2 |
 | TER | 3 |
-| QËR | 4 |
+| KHËR | 4 |
 | PEN | 5 |
 | SHU | 6 |
 | VUN | 7 |
