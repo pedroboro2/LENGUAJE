@@ -42,6 +42,12 @@ El desarrollo de la fuente requiere:
 
 No se deben asignar caracteres Unicode de uso privado sin acompañarlos de la fuente, porque en otros equipos podrían mostrarse como cuadros vacíos.
 
-## 5. Estado
+## 5. Fuente y uso en Word
+
+La fuente experimental NEXOR Glyph 01 se puede obtener desde la página escritor.html. Usa 36 caracteres privados Unicode (U+E000–U+E023). En Windows: descarga la fuente, haz doble clic y pulsa Instalar; reinicia Word. Escribe el texto en el conversor, pulsa Convertir y Copiar escritura, pega en Word y aplica NEXOR Glyph 01 al texto pegado. Quien reciba el documento también debe tener la fuente instalada, salvo que se comparta un PDF con la fuente incrustada.
+
+La fuente no transforma automáticamente las letras latinas normales. El conversor genera los caracteres privados que corresponden a cada unidad. Se aceptan E/É como alias de Ë, I como alias de Ï, O como alias de Ø y U como alias de Û.
+
+## 6. Estado
 
 La lámina SVG y el prototipo de fuente NEXOR Glyph 01 están publicados. La página ESCRITOR.html permite convertir la transcripción latina y descargar la fuente TTF. La fuente utiliza U+E000–U+E023 y debe instalarse en cada equipo para visualizar los grafemas en aplicaciones como Word.
