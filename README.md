@@ -3,7 +3,7 @@
 
 **Creador del proyecto:** Pedro (GitHub: [@pedroboro2](https://github.com/pedroboro2))  
 **Estado:** prototipo lingüístico abierto en desarrollo  
-**Versión:** 1.0 — 14 de noviembre de 2026
+**Versión:** 1.2 — 14 de noviembre de 2026
 
 NEXØR es un proyecto de lengua artificial (conlang) con un sistema fonológico, una gramática y una escritura propios. El objetivo es desarrollar una lengua coherente, aprendible, documentada y abierta a la participación.
 
@@ -12,6 +12,7 @@ NEXØR es un proyecto de lengua artificial (conlang) con un sistema fonológico,
 ## Documentación principal
 
 - [Norma fundacional](NORMA-FUNDACIONAL.md)
+- [Auditoría de coherencia 1.2](AUDITORIA-1.2.md)
 - [Gramática de referencia](GRAMATICA.md)
 - [Léxico básico](LEXICO.md)
 - [Fonología y pronunciación](PRONUNCIACION.md)
