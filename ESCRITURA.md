@@ -8,6 +8,10 @@ NEXØR utilizará:
 
 La transcripción latina no es la escritura propia. No debe presentarse como si los caracteres latinos fueran el alfabeto final.
 
+## 1.1 Convención de entrada canónica
+
+Se escriben siempre las vocales canónicas A, Ë, Ï, Ø, Û y Æ, incluidos sus diacríticos. No se aceptan E, I, O ni U como alias automáticos de Ë, Ï, Ø o Û. Esta decisión evita colisiones: O es la conjunción «o» y E- es el marcador de pasado. En consecuencia, el conversor no debe sustituir letras globalmente; solo debe convertir grafemas completos reconocidos.
+
 ## 2. Mapa de 36 signos
 
 El archivo alfabeto-nexor.svg presenta una primera propuesta visual de 36 signos geométricos. Cada signo se identifica con una etiqueta latina de referencia. El dibujo es un prototipo gráfico; no es todavía una fuente de ordenador.
@@ -46,7 +50,7 @@ No se deben asignar caracteres Unicode de uso privado sin acompañarlos de la fu
 
 La página escritor.html incorpora una versión web WOFF2 para mostrar los grafemas en navegador. También se ha generado una fuente TrueType experimental para Word; su archivo binario se facilita en el kit de desarrollo de esta conversación y su incorporación como descarga binaria en el repositorio público queda pendiente. Consulta FUENTE.md para las instrucciones.
 
-La fuente no transforma automáticamente las letras latinas normales. El conversor genera los caracteres privados que corresponden a cada unidad. Se aceptan E/É como alias de Ë, I como alias de Ï, O como alias de Ø y U como alias de Û.
+La fuente no transforma automáticamente las letras latinas normales. El conversor genera los caracteres privados que corresponden a cada unidad. No se admiten alias ASCII para las vocales con diacrítico. Deben utilizarse las formas canónicas Ë, Ï, Ø y Û.
 
 ## 6. Estado
 
