@@ -44,4 +44,4 @@ No se deben asignar caracteres Unicode de uso privado sin acompañarlos de la fu
 
 ## 5. Estado
 
-La primera lámina visual está publicada como prototipo. La fuente OTF/TTF todavía no está creada ni debe anunciarse como disponible.
+La lámina SVG y el prototipo de fuente NEXOR Glyph 01 están publicados. La página ESCRITOR.html permite convertir la transcripción latina y descargar la fuente TTF. La fuente utiliza U+E000–U+E023 y debe instalarse en cada equipo para visualizar los grafemas en aplicaciones como Word.
