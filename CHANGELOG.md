@@ -17,3 +17,5 @@
 - Se incorporan alias de teclado para las vocales con diacríticos.
 
 - Se incorpora el manual inicial de aprendizaje, metadatos de citación, robots.txt y sitemap.xml para facilitar la publicación e indexación.
+
+- Se añaden hoja de ruta y materiales de difusión en español e inglés.
