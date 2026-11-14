@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pedroboro2.github.io/LENGUAJE/sitemap.xml
