@@ -3,9 +3,7 @@ message: "Si utilizas o adaptas NEXØR, cita este proyecto y enlaza el repositor
 title: "NEXØR — Proyecto de lengua artificial"
 type: software
 authors:
-  - family-names: "Proyecto NEXØR"
-    given-names: "Pedro"
-    affiliation: "Creador del proyecto"
+  - name: "Pedro (@pedroboro2)"
 repository-code: "https://github.com/pedroboro2/LENGUAJE"
 url: "https://github.com/pedroboro2/LENGUAJE"
 license: "CC-BY-4.0"
