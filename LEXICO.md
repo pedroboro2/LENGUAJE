@@ -111,7 +111,7 @@
 | QÛR | pregunta |
 | NËRA | respuesta |
 | VÂL | bueno |
-| DÂK | malo |
+| DËK | malo |
 | SHËL | grande |
 | PËN | pequeño |
 | RÂV | nuevo |
@@ -144,11 +144,11 @@
 | EK | 1 |
 | DU | 2 |
 | TER | 3 |
-| QAR | 4 |
+| QËR | 4 |
 | PEN | 5 |
 | SHU | 6 |
-| ZEK | 7 |
-| VOR | 8 |
+| VUN | 7 |
+| DËR | 8 |
 | NËN | 9 |
 | DAR | 10 |
 
