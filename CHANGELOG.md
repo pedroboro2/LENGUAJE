@@ -8,3 +8,7 @@
 - Se incorpora un léxico de trabajo de 12 entradas.
 - Se declara pendiente el diseño de la escritura y de la tipografía.
 - Se identifican los componentes aún no validados.
+
+- Se añade la fuente experimental NEXOR Glyph 01 y el conversor web ESCRITOR.html.
+- Se rediseña la lámina SVG para reflejar los 36 grafemas del prototipo tipográfico.
+- Se incorpora un flujo de despliegue automático de GitHub Pages; requiere activar Pages en la configuración del repositorio.
