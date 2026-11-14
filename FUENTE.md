@@ -1,35 +1,34 @@
 # NEXØR Glyph 01 — Instalación y uso
 
-## Descarga
+## Conversor web
 
-Abre el [escritor web de NEXØR](escritor.html) y pulsa **Descargar fuente TTF**.
+Abre [escritor.html](escritor.html). La página incluye la fuente web WOFF2 embebida y permite convertir la transcripción latina a los 36 caracteres privados del alfabeto experimental. El WOFF2 está pensado para visualización en navegador.
 
-## Instalar en Windows
+## Fuente TrueType para Word
 
-1. Descarga NEXOR-Glyph-01.ttf desde el escritor.
+Se ha generado un prototipo TTF llamado NEXOR-Glyph-01.ttf. El archivo binario está incluido en el kit descargable entregado durante el desarrollo de este proyecto; su incorporación como archivo binario descargable al repositorio público queda pendiente. La fuente TTF es la versión necesaria para instalar los grafemas en Word.
+
+### Instalar en Windows
+
+1. Descarga NEXOR-Glyph-01.ttf.
 2. Haz doble clic sobre el archivo.
-3. Pulsa **Instalar**.
+3. Pulsa Instalar.
 4. Cierra y vuelve a abrir Microsoft Word.
-5. Escribe o pega texto convertido desde el escritor web.
-6. Selecciona los caracteres especiales pegados y aplica la fuente **NEXOR Glyph 01**.
+5. Abre el conversor web y escribe una frase en transcripción latina.
+6. Pulsa Convertir y Copiar escritura.
+7. Pega en Word, selecciona los caracteres pegados y aplica NEXOR Glyph 01.
 
-## Escribir texto
-
-La fuente utiliza caracteres del área privada Unicode U+E000–U+E023. No convierte por sí misma el texto latino. Para generar esos caracteres:
-1. Escribe una palabra o frase en la transcripción latina en escritor.html.
-2. Pulsa Convertir.
-3. Pulsa Copiar escritura.
-4. Pega en Word.
-5. Aplica NEXOR Glyph 01 al texto pegado.
+La fuente utiliza caracteres del área privada Unicode U+E000–U+E023. No transforma automáticamente letras latinas normales: el conversor genera los caracteres privados.
 
 ## Compartir documentos
 
-La persona destinataria debe instalar la misma fuente para ver los grafemas en Word. Como alternativa, exporta el documento a PDF comprobando que la fuente queda incrustada.
+La persona destinataria debe instalar la misma fuente para ver los grafemas en Word. Como alternativa, exporta a PDF y comprueba que la fuente queda incrustada.
 
 ## Compatibilidad y límites
 
 - Fuente TrueType experimental, versión 1.001.
+- Versión web WOFF2 embebida en escritor.html.
 - 36 grafemas asignados a U+E000–U+E023.
 - Los caracteres privados no tienen significado universal fuera de esta fuente.
 - Si el destinatario no instala la fuente, puede ver cuadros vacíos o símbolos de sustitución.
-- El diseño es experimental y puede cambiar en futuras versiones. No usar todavía para documentos críticos o publicaciones tipográficas definitivas.
+- El diseño es experimental y puede cambiar en futuras versiones.
