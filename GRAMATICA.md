@@ -128,6 +128,10 @@ Se propone el patrón (C)(C)V(C), donde C es una consonante o grupo admitido y V
 | A-VËR DOM VAL | La casa es buena. |
 | A-SHEN SAI MI ARA | Él/ella habla conmigo. |
 
-## 14. Aspectos todavía no regulados
+## 14. Convenciones ortográficas
+
+Las vocales Ë, Ï, Ø y Û deben escribirse con sus grafías canónicas. No se admiten alias E, I, O y U. La conjunción O se escribe con O latina; el marcador de pasado se escribe E- y no debe confundirse con Ë.
+
+## 15. Aspectos todavía no regulados
 
 Aspecto, modo condicional y subjuntivo, imperativo, verbos auxiliares, comparativos, subordinación, pasiva, foco, derivación, sistema completo de interrogativos y variación dialectal. Las expresiones complejas deben marcarse como experimentales hasta regular estos puntos.
