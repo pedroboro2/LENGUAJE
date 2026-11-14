@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="NEXØR: proyecto abierto de lengua artificial en desarrollo. Fonología, gramática, vocabulario y escritura.">
+<title>NEXØR — Lengua artificial</title>
+<style>
+:root{color-scheme:dark;--bg:#0b1020;--panel:#121a30;--line:#283653;--ink:#edf2ff;--muted:#a8b5d1;--accent:#b7a5ff;--cyan:#85d9d2}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 15% 0%,#222446 0,transparent 42%),var(--bg);color:var(--ink);font:16px/1.65 system-ui,-apple-system,Segoe UI,sans-serif}
+a{color:var(--cyan);text-decoration:none}a:hover{text-decoration:underline}.wrap{max-width:960px;margin:auto;padding:28px 22px 70px}
+header{padding:64px 0 44px;border-bottom:1px solid var(--line)}.eyebrow{color:var(--cyan);letter-spacing:.18em;text-transform:uppercase;font-size:.78rem;font-weight:700}
+h1{font-size:clamp(3rem,10vw,6.7rem);line-height:1;margin:14px 0;color:var(--accent);letter-spacing:.04em}
+.subtitle{font-size:clamp(1.05rem,3vw,1.4rem);color:var(--muted);max-width:650px}
+.pill{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:5px 12px;color:var(--cyan);font-size:.84rem;margin:14px 8px 0 0}
+section{padding:32px 0;border-bottom:1px solid var(--line)}h2{font-size:1.55rem;margin:0 0 14px}p{color:var(--muted)}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:15px;padding:18px}.card h3{margin:0 0 8px;font-size:1.05rem}.card p{margin:0}
+table{border-collapse:collapse;width:100%;display:block;overflow-x:auto}th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line)}th{color:var(--cyan)}
+code,.sample{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.sample{font-size:1.2rem;color:var(--accent);background:#090e1b;padding:15px;border-radius:10px;overflow-wrap:anywhere}
+.note{border-left:3px solid var(--accent);padding:10px 15px;background:#15182c;border-radius:0 10px 10px 0;color:var(--muted)}
+footer{padding-top:26px;color:var(--muted);font-size:.9rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+<div class="eyebrow">Proyecto de lengua artificial · Versión 1.0</div>
+<h1>NEXØR</h1>
+<div class="subtitle">Una lengua construida desde cero: sonidos, gramática, vocabulario y un sistema de escritura en desarrollo.</div>
+<span class="pill">Proyecto abierto</span><span class="pill">Prototipo lingüístico</span><span class="pill">14 · 11 · 2026</span>
+</header>
+
+<section>
+<h2>Qué es NEXØR</h2>
+<p>NEXØR es un proyecto de lengua artificial (conlang) creado para desarrollar un sistema coherente, aprendible y documentado. Esta primera publicación fija las bases de trabajo y abre el proyecto a propuestas y revisiones.</p>
+<div class="note"><strong>Estado honesto del proyecto:</strong> NEXØR está en fase inicial. Su inventario fonético y su esquema gramatical son propuestas de trabajo, no una lengua completa ni plenamente validada. La escritura gráfica propia y la tipografía instalable todavía están pendientes.</div>
+</section>
+
+<section>
+<h2>Primeras bases</h2>
+<div class="grid">
+<div class="card"><h3>36 unidades fonéticas propuestas</h3><p>6 vocales, 18 consonantes y 12 grupos consonánticos cuya condición fonológica deberá precisarse.</p></div>
+<div class="card"><h3>Gramática en construcción</h3><p>Se explora un orden Verbo–Sujeto–Objeto, sin género gramatical ni artículos.</p></div>
+<div class="card"><h3>Escritura independiente</h3><p>Se prevén 36 grafemas originales. El diseño final y su fuente OTF/TTF aún no están publicados.</p></div>
+</div>
+</section>
+
+<section>
+<h2>Vocabulario inicial</h2>
+<table><thead><tr><th>NEXØR</th><th>Significado de trabajo</th></tr></thead><tbody>
+<tr><td>ARA</td><td>yo</td></tr><tr><td>THÉN</td><td>tú</td></tr><tr><td>VOR</td><td>nosotros</td></tr>
+<tr><td>ZHUR</td><td>querer</td></tr><tr><td>KAI</td><td>ver</td></tr><tr><td>MËK</td><td>saber</td></tr>
+<tr><td>TAL</td><td>crear</td></tr><tr><td>ESH</td><td>pensamiento</td></tr><tr><td>VESH</td><td>mundo</td></tr>
+<tr><td>RÛN</td><td>secreto</td></tr><tr><td>NAI</td><td>agua</td></tr><tr><td>ORA</td><td>tiempo</td></tr>
+</tbody></table>
+</section>
+
+<section>
+<h2>Una muestra</h2>
+<div class="sample">TAL ARA VESH</div>
+<p>Traducción propuesta: «Yo creo un mundo». Los ejemplos se revisarán cuando se complete la morfología y se valide el orden de la oración.</p>
+</section>
+
+<section>
+<h2>Documentación del proyecto</h2>
+<div class="grid">
+<div class="card"><h3><a href="NORMA-FUNDACIONAL.md">Norma fundacional 1.0</a></h3><p>Inventario fonético, gramática provisional, léxico y decisiones pendientes.</p></div>
+<div class="card"><h3><a href="CONTRIBUTING.md">Cómo contribuir</a></h3><p>Proponer nuevas palabras, reglas y mejoras con ejemplos verificables.</p></div>
+<div class="card"><h3><a href="CHANGELOG.md">Registro de cambios</a></h3><p>Historial de las decisiones publicadas.</p></div>
+</div>
+</section>
+
+<section>
+<h2>Participa</h2>
+<p>El proyecto está abierto a observaciones y propuestas. Consulta la documentación y utiliza las incidencias del repositorio para plantear mejoras.</p>
+<p><a href="https://github.com/pedroboro2/LENGUAJE">Ver NEXØR en GitHub →</a></p>
+</section>
+
+<footer>
+<p>NEXØR · Proyecto de lengua artificial · Iniciado por <a href="https://github.com/pedroboro2">@pedroboro2</a>.</p>
+<p>La documentación se publica bajo licencia CC BY 4.0, salvo indicación específica. NEXØR no es un sistema de cifrado ni debe utilizarse para proteger información confidencial.</p>
+</footer>
+</div>
+</body>
+</html>
