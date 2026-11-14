@@ -7,7 +7,7 @@
 
 NEXØR es un proyecto de lengua artificial (conlang) con un sistema fonológico, una gramática y una escritura propios. El objetivo es desarrollar una lengua coherente, aprendible, documentada y abierta a la participación.
 
-> **Estado real:** NEXØR está en fase inicial. Las reglas y el vocabulario publicados son una propuesta de trabajo, no una lengua completa ni validada. El alfabeto SVG es un prototipo visual; todavía no existe una fuente OTF/TTF.
+> **Estado real:** NEXØR está en fase inicial. Las reglas y el vocabulario publicados son una propuesta de trabajo, no una lengua completa ni validada. El alfabeto SVG es un prototipo visual. Existe una fuente TTF experimental para Word y una versión web WOFF2 embebida en el conversor; la publicación binaria del TTF en el repositorio está pendiente.
 
 ## Documentación principal
 
