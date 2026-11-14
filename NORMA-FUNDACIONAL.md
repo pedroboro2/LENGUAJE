@@ -17,7 +17,7 @@ La propuesta distingue:
 
 Por tanto, hay **24 fonemas básicos propuestos y 12 secuencias adicionales**, no 36 fonemas independientes. El objetivo gráfico inicial es disponer de 36 signos diferenciados. La clasificación fonológica definitiva requiere pruebas y revisión.
 
-La transcripción latina admite como alias de teclado E=Ë, I=Ï, O=Ø y U=Û. Las formas canónicas con diacríticos se mantienen en los documentos lingüísticos.
+La transcripción latina utiliza las formas canónicas Ë, Ï, Ø y Û. No se admiten alias ASCII automáticos para estas vocales.
 
 ## 3. Estructura y pronunciación
 
