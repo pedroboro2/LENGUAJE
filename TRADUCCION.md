@@ -55,6 +55,10 @@ Si una frase contiene un concepto sin entrada:
 
 Si la frase requiere una regla no definida (por ejemplo, subordinación, condicional, aspecto o destinatario indirecto), se debe ofrecer una paráfrasis sencilla o marcar la traducción como experimental.
 
-## 6. Advertencia
+## 6. Convenciones ortográficas
+
+Las vocales con diacrítico deben conservarse en su forma canónica: Ë, Ï, Ø y Û. No se deben normalizar a E, I, O o U, porque O es una conjunción y E- es el marcador de pasado. La transliteración debe preservar los signos y no aplicar sustituciones globales.
+
+## 7. Advertencia
 
 La traducción automática o asistida de NEXØR solo puede ser fiable dentro del vocabulario y las reglas documentadas. No debe afirmarse que cualquier texto complejo puede traducirse con precisión mientras el idioma siga en desarrollo.
