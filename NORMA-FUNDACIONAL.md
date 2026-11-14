@@ -67,6 +67,13 @@ El diseño de los grafemas es experimental. Se revisarán legibilidad, distinci�
 
 NEXØR es una lengua artificial, no un cifrado. Cualquier persona que conozca sus reglas y vocabulario puede interpretar sus textos. No debe utilizarse para proteger contraseñas ni información confidencial.
 
-## 9. Revisión
+## 9. Convenciones ortográficas y decisiones de la revisión 1.2
+
+- Las vocales Ë, Ï, Ø y Û se escriben siempre con sus grafías canónicas. No se admiten alias ASCII E, I, O y U.
+- O conserva el valor de conjunción disyuntiva; Ø conserva su identidad como vocal y como elemento del marcador de negación Ø-.
+- E- es el marcador de pasado y no es una variante de Ë.
+- RAV significa «dar»; NËV significa «nuevo». No se asignan dos significados léxicos a RAV.
+
+## 10. Revisión
 
 Toda modificación relevante debe documentarse en CHANGELOG.md, actualizar la versión correspondiente y conservar ejemplos que permitan comprobar la coherencia del sistema.
