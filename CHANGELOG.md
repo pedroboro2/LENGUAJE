@@ -1,5 +1,13 @@
 # Registro de cambios
 
+## 1.2 — 2026-11-14 (revisión de coherencia)
+
+- Se elimina la equivalencia automática E/É→Ë, I→Ï, O→Ø y U→Û. Se exige ortografía canónica para evitar colisiones con O (conjunción) y E- (pasado).
+- Se fija RAV exclusivamente como «dar» y NËV como «nuevo».
+- Se corrige el ejemplo ditransitivo pendiente para no presentarlo como una estructura ya regulada.
+- Se incorpora auditoría de coherencia y se mantiene pendiente la validación fonológica y gramatical externa.
+
+
 ## 1.0 — 2026-11-14
 
 - Primera publicación pública de NEXØR.
